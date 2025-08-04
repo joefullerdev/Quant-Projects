@@ -1,6 +1,6 @@
 # Quant Projects Repository
 
-## Project 1) SMA Crossover Strategy with Backtest (SMA-Model)
+## **Project 1)** SMA Crossover Strategy with Backtest (SMA-Model)
 
 This is my first quant related project, so I'd thought I would start off with something simple.
 
